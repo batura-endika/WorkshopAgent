@@ -1,1 +1,13 @@
+# Carpeta vigilada por el agente (salida de la práctica)
 especificaciones/
+
+# Entorno virtual y secretos
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
